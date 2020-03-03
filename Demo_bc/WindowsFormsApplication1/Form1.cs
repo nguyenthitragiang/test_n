@@ -141,7 +141,7 @@ namespace WindowsFormsApplication1
 
 
             int count = list.Count();// dếm tổng số link tìm đc
-             int i = 0;
+            //tao lao int i = 0;
          
             ArrayList ListUrls1 = new ArrayList();
             ArrayList ListUrls2 = new ArrayList();
